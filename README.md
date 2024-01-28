@@ -7,6 +7,10 @@ I developed SPARTAN, a set of tools implemented in MATLAB and C/C++ for the anal
 ## Other projects
 - <a href="https://www.mathworks.com/matlabcentral/fileexchange/53773-parfor_progressbar">parfor_progressbar</a>: version of MATLAB's waitbar compatible with parfor loops and other multiprocessing workflows. Downloaded more than 1,700 times.
 
+## Publications
+- <a href="https://orcid.org/0000-0001-9021-0084">ORCID</a>
+- <a href="https://scholar.google.com/citations?user=9U4OOKYAAAAJ&hl=en&oi=ao">Google Scholar</a>
+
 <!--
 **dsterry/dsterry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
